@@ -1,6 +1,3 @@
--- company database --
-CREATE DATABASE company;
-
 -- department table
 CREATE TABLE department (
     department_number SERIAL PRIMARY KEY,
