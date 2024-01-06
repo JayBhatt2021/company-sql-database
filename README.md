@@ -72,7 +72,7 @@ $ \i View6.sql
 
 2. **Exit `psql` Tool:**
 
-After executing the View SQL Scripts, exit the psql tool:
+After executing the View SQL Scripts, exit the `psql` tool:
 
 ```bash
 $ \q
