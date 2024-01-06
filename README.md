@@ -77,3 +77,4 @@ After executing the View SQL Scripts, exit the psql tool:
 ```bash
 $ \q
 ```
+
